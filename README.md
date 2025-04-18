@@ -1,5 +1,4 @@
 # CS_Study
-기술면접준비
 
 ### 참고 유튜브
 https://www.youtube.com/watch?v=E4Lpgx-kIPY&list=LL&index=2  
