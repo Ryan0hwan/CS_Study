@@ -3,6 +3,7 @@
 ### 참고 유튜브
 https://www.youtube.com/watch?v=E4Lpgx-kIPY&list=LL&index=2  
 https://www.youtube.com/watch?v=nZACCE1-t-g&list=LL&index=3  
+https://youtu.be/8ezFtSphH2w?si=0Q4d_G8xclzyHftk
 
 ### 참고 깃허브
 https://github.com/jbee37142/Interview_Question_for_Beginner  
