@@ -3,7 +3,7 @@
 ### 참고 유튜브
 https://www.youtube.com/watch?v=E4Lpgx-kIPY&list=LL&index=2  
 https://www.youtube.com/watch?v=nZACCE1-t-g&list=LL&index=3  
-https://youtu.be/8ezFtSphH2w?si=0Q4d_G8xclzyHftk
+https://youtu.be/8ezFtSphH2w?si=0Q4d_G8xclzyHftk  
 https://www.youtube.com/watch?v=AwlLY4C2smU
 
 ### 참고 깃허브
